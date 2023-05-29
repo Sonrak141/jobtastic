@@ -1,14 +1,33 @@
-# Expo Router Example
+<h1 align="center">Welcome to Jobtastic 👋</h1>
+<p>
+  <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
+</p>
 
-Use [`expo-router`](https://expo.github.io/router) to build native navigation using files in the `app/` directory.
+> Jobtastic is an app that help you look for any job you want.
 
-## 🚀 How to use
+## Install
 
 ```sh
-npx create-expo-app -e with-router
+yarn install
 ```
 
-## 📝 Notes
+## Usage
 
-- [Expo Router: Docs](https://expo.github.io/router)
-- [Expo Router: Repo](https://github.com/expo/router)
+```sh
+yarn run start
+```
+
+## Author
+
+👤 **Carlos Borrero**
+
+* Website: cbdevportfolio.netlify.app
+* Github: [@Sonrak141](https://github.com/Sonrak141)
+* LinkedIn: [@carlosiborrero](https://linkedin.com/in/carlosiborrero)
+
+## Show your support
+
+Give a ⭐️ if this project helped you!
+
+***
+_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
